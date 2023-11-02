@@ -61,6 +61,3 @@ Enjoy playing the Simon Game and test your memory skills🧠! If you have any qu
 
 Have fun!
  
-Enjoy playing the Simon Game! If you have any questions or need assistance, please don't hesitate to reach out to the project maintainers.
- 
-Have fun and test your memory skills! 🎮🧠
